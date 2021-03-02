@@ -1,0 +1,27 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=nabs
+*Date=14:33:31
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;TO92 [THT];33.6733;-41.0139;-90;Bottom;Q2
+2;220;THT;15.8044;-43.7444;90;Bottom;R2
+3;1µF;100 mil [THT, electrolytic];17.0744;-31.0444;0;Bottom;C1
+4;3V;;3.10444;-50.0944;0;Bottom;VCC1
+5;;5 mm [THT];28.5044;-52.0156;0;Bottom;LED2
+6;;5 mm [THT];10.7244;-49.5154;0;Bottom;LED1
+7;220;THT;10.7244;-38.6644;90;Bottom;R1
+8;1µF;100 mil [THT, electrolytic];24.6944;-31.0444;0;Bottom;C2
+9;;TO92 [THT];5.55554;-41.3949;90;Bottom;Q1
+10;;;19.6144;-36.1244;0;Bottom;Jumper1
+11;220;THT;28.5044;-41.2044;90;Bottom;R4
+12;220;THT;20.8844;-43.7444;90;Bottom;R3
